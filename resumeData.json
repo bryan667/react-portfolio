@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "Bryan Martirez",
+    "occupation": "Web Developer",
+    "description": "I mainly do front-end and sometimes back-end projects. My main tech stacks are React, Redux, GraphQL, & Node but I'm always learning and trying out new stuff",
+    "image": "profilepic.jpg",
+    "bio": "I learned JS as a hobby through self-taught courses with the help of friends, online groups and the freecodecamp community. I like to code things and enjoy bringing ideas to life in the browser. Occasionally I help out beginners in online groups and forums as a way to give back to the community.",
+    "contactmessage": "If you wanna get in touch, do a project, or want to work together, feel free to send a message below.",
+    "email": "janbryanmartirez@gmail.com",
+    "phone": "",
+    "address": {
+      "country": "PH",
+      "city": "Imus",
+      "state": "Cavite",
+      "zip": "4103"
+    },
+    "website": "https://github.com/bryan667",
+    "resumedownload": "https://github.com/bryan667",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mayonakadrive",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jan-bryan-martirez",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/bryan667",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "https://www.skype.com/",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of the tech stacks that I had the pleasure of working with, but I always try out new stuff as they come along.",
+    "education": [
+      {
+        "school": "Technical Institute of the Philippines",
+        "degree": "Bachelor of Science in Electronic and Communications Engineering",
+        "graduated": "2006-2009"
+      },
+      {
+        "school": "Technological University of the Philippines",
+        "degree": "Electronic and Communications Engineering Technology",
+        "graduated": "2003-2006"
+      },
+      {
+        "school": "Notre Dame of Greater Manila",
+        "degree": "Primary / Secondary",
+        "graduated": "1993-2003"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fiddle Cloud Based Inventory Management",
+        "title": "Web Developer",
+        "years": "January 2019 - Present",
+        "description": "Develop and maintain Fiddle's main Inventory app, front-page and components across multiple microservices. I create and maintain reusable components using Storybook, and add new customer requested features. I have experience with multiple tech stacks mainly React, Redux, Apollo, GraphQL, & Node."
+      },
+      {
+        "company": "Five9 Inc. Cloud Contact Center",
+        "title": "API and Integrations Support Engineer",
+        "years": "November 2011 – August 2018",
+        "description": "Work together with partner Devs in helping build integrated apps with the Five9 application. I worked with Five9 partner integrations such as Salesforce, Zoho, Zendesk, Netsuite and Velocify."
+      },
+      {
+        "company": "HP Desktops & AT&T Uverse",
+        "title": "Technical Support Engineer",
+        "years": "October 2009 - October 2011",
+        "description": "Worked as a tech support to customers, providing front and remote support across multiple products."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "searchq": "ReactJS"
+      },
+      {
+        "name": "Redux",
+        "searchq": "Redux"
+      },
+      {
+        "name": "Apollo",
+        "searchq": "Apollo GraphQL"
+      },
+      {
+        "name": "GraphQL",
+        "searchq": "GraphQL"
+      },
+      {
+        "name": "Node",
+        "searchq": "Node"
+      },
+      {
+        "name": "CSS",
+        "searchq": "CSS"
+      },
+      {
+        "name": "HTML5",
+        "searchq": "HTML5"
+      },
+      {
+        "name": "Vanilla Javascript",
+        "searchq": "Vanilla Javascript"
+      },
+      {
+        "name": "MongoDB",
+        "searchq": "MongoDB"
+      },
+      {
+        "name": "PostgreSQL",
+        "searchq": "PostgreSQL"
+      },
+      {
+        "name": "Firebase",
+        "searchq": "Firebase"
+      },
+      {
+        "name": "Typescript",
+        "searchq": "Typescript"
+      },
+      {
+        "name": "Socket.IO",
+        "searchq": "Socket.IO"
+      },
+      {
+        "name": "Bootstrap",
+        "searchq": "Bootstrap"
+      },
+      {
+        "name": "Storybook",
+        "searchq": "Storybook UI"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My Test App",
+        "category": "Test app right here",
+        "image": "test2.jpg",
+        "url": "https://www.my-test-app.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I like Bryan, he seems sharp.",
+        "user": "Ken"
+      }
+    ]
+  }
+}
